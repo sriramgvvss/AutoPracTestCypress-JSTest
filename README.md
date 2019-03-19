@@ -1,6 +1,6 @@
 This project contains basic end to end automated scripts for validating My Store online shopping web-app with the url: http://automationpractice.com/index.php
 
-This a uses javscript over cypress.io. 
+This uses javscript over cypress.io. 
 
 The scripts are located in the following path: 
 JStest/cypress/integration/MyStore Transactions 
